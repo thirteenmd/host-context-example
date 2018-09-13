@@ -1,0 +1,14 @@
+:host {
+  border: 2px solid dimgray;
+  display: block;
+  padding: 20px;
+}
+
+/* :host ::ng-deep h2 {
+  color: red;
+} */
+
+
+:host h2 {
+  color: red;
+}
